@@ -1,10 +1,9 @@
-# presentacion-
+# Presentación - Nicolás Fishman
 
-- Escriban presentación sobre ustedes.
-- Suban la presentación a Git.
-- Realicen algun cambio.
-- Suban los nuevos cambios.
-- Compartan el link por discord
-- Hagan algun comentario sobre el repositorio de algun otro compañere. Al menos 2.
-
-Ya saben usar git!
+- Mi nombre es Nicolás Fishman.
+- Tengo 18 años.
+- Es mi primera vez cursando paradigmas.
+- Me gusta programar, programo en Javascript, Python y C++.
+- Soy hincha de [Racing](https://www.youtube.com/watch?v=SU_JWU9sleM)
+- Me gusta jugar al fútbol.
+- Mate y rock nacional, todo lo que necesito.
