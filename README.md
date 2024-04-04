@@ -8,5 +8,9 @@
 - Me gusta jugar al fútbol.
 - Mate y rock nacional, todo lo que necesito.
 
+- Me gusta mucho el humor y más específicamente Caro Pardíaco
+<!-- foto caro.jpg -->
+[![Caro Pardíaco](https://pbs.twimg.com/media/DEEFyJUXoAEuzRA.jpg)]
 
-Sí, Milito hay uno solo y se llama Diego Alberto
+
+> Sí, Milito hay uno solo y se llama Diego Alberto
