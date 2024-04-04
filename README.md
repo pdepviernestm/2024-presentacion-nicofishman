@@ -10,7 +10,7 @@
 
 - Me gusta mucho el humor y más específicamente Caro Pardíaco
 <!-- foto caro.jpg -->
-[![Caro Pardíaco](https://pbs.twimg.com/media/DEEFyJUXoAEuzRA.jpg)]
+![Caro Pardíaco](https://pbs.twimg.com/media/DEEFyJUXoAEuzRA.jpg)
 
 
 > Sí, Milito hay uno solo y se llama Diego Alberto
